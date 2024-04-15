@@ -1,4 +1,4 @@
-## Binary Search Tree (BST) Explanation
+## Binary Search Tree (BST)
 
 ### Overview
 A Binary Search Tree (BST) is a hierarchical data structure used for organizing and storing data in a sorted manner. Each node in a BST has at most two child nodes, referred to as the left child and the right child. The key property of a BST is that the value of each node is greater than all values in its left subtree and less than all values in its right subtree, making it easy to search, insert, and delete elements efficiently.
@@ -21,7 +21,7 @@ A Binary Search Tree (BST) is a hierarchical data structure used for organizing 
 3. **Ordered Traversal:** BSTs support various methods of ordered traversal, such as inorder, preorder, and postorder traversal, which can be useful for tasks like printing elements in sorted order.
 
 ### Limitations
-1. **Unbalanced Trees:** In certain scenarios, such as when elements are inserted in sorted order, a BST may become unbalanced, leading to degraded performance with operations like search and insertion, which could approach O(n) time complexity in the worst case.
+1. **Unbalanced Trees:** In certain scenarios, such as when elements are inserted in sorted order, a BST may become unbalanced, leading to a degraded performance with operations like search and insertion, which could approach O(n) time complexity in the worst case.
 
 2. **Space Complexity:** Although BSTs offer efficient search operations, they may require more memory compared to other data structures due to the additional overhead of storing pointers for each node.
 
