@@ -21,6 +21,10 @@ This repository serves as a centralized location for documenting all projects un
 - **Project 4: Binary Search Tree Implementation**
   - Description: Implement a binary search tree with basic operations such as insertion, deletion, and search.
   - Status: Completed (committed)
+ 
+- **Project 5: AVL Tree Implementation**
+  - Description: Implement an AVL tree, a self-balancing binary search tree, with operations such as insertion, deletion, and search. Ensure that the tree maintains its balance factor to optimize performance.
+  - Status: Completed (committed)
 
 
 
